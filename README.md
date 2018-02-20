@@ -1,6 +1,6 @@
 # Faster Youtube
 
-Youtube clone created using open youtube API. No screen bloat for faster load times
+Youtube clone created using open youtube API. Search and view Youtube videos quickly without the extra bits
 
 
 ```
